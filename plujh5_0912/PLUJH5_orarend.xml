@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLUJH5_orarend>
+    <!-- 37. naptári hét -->
+    <ora id="1" tipus="Elmélet">
+        <kurzusnev tnev="Multimédia rendszerek"/>
+        <idopont>
+            <nap datum="2026-09-11"/>
+            <tol mettol="12:30"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="In/200"/>
+        <oktato onev="Dr. Varga Attila Károly"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="2" tipus="Elmélet">
+        <kurzusnev tnev="Windows rendszergazda"/>
+        <idopont>
+            <nap datum="2026-09-11"/>
+            <tol mettol="16:00"/>
+            <ig meddig="19:20"/>
+        </idopont>
+        <helyszin hol="In/103"/>
+        <oktato onev="Dr. Wagner György"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="3" tipus="Elmélet">
+        <kurzusnev tnev="Mesterséges intelligencia alapok"/>
+        <idopont>
+            <nap datum="2026-09-12"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Kunné Dr. Tamás Judit"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="4" tipus="Elmélet">
+        <kurzusnev tnev="Webes adatkezelő környezetek"/>
+        <idopont>
+            <nap datum="2026-09-12"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Dr. Bednarik László"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 38. naptári hét -->
+    <ora id="5" tipus="Elmélet">
+        <kurzusnev tnev="Elektrotechnika-elektronika"/>
+        <idopont>
+            <nap datum="2026-09-18"/>
+            <tol mettol="16:00"/>
+            <ig meddig="19:20"/>
+        </idopont>
+        <helyszin hol="X"/>
+        <oktato onev="Szabó Norbert"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="6" tipus="Elmélet">
+        <kurzusnev tnev="UNIX rendszergazda"/>
+        <idopont>
+            <nap datum="2026-09-19"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="A1/307"/>
+        <oktato onev="Dr. Mileff Péter"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="7" tipus="Elmélet">
+        <kurzusnev tnev="Multimédia rendszerek"/>
+        <idopont>
+            <nap datum="2026-09-19"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="In/200"/>
+        <oktato onev="Dr. Varga Attila Károly"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 39. naptári hét -->
+    <ora id="8" tipus="Elmélet">
+        <kurzusnev tnev="Elektrotechnika-elektronika"/>
+        <idopont>
+            <nap datum="2026-09-25"/>
+            <tol mettol="16:00"/>
+            <ig meddig="19:20"/>
+        </idopont>
+        <helyszin hol="X"/>
+        <oktato onev="Szabó Norbert"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="9" tipus="Elmélet">
+        <kurzusnev tnev="Mesterséges intelligencia alapok"/>
+        <idopont>
+            <nap datum="2026-09-26"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Kunné Dr. Tamás Judit"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 40. naptári hét -->
+    <ora id="10" tipus="Elmélet">
+        <kurzusnev tnev="Windows rendszergazda"/>
+        <idopont>
+            <nap datum="2026-10-02"/>
+            <tol mettol="16:00"/>
+            <ig meddig="19:20"/>
+        </idopont>
+        <helyszin hol="In/103"/>
+        <oktato onev="Dr. Wagner György"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 41. naptári hét -->
+    <ora id="11" tipus="Elmélet">
+        <kurzusnev tnev="UNIX rendszergazda"/>
+        <idopont>
+            <nap datum="2026-10-10"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="A1/319"/>
+        <oktato onev="Dr. Mileff Péter"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 42. naptári hét -->
+    <ora id="12" tipus="Elmélet">
+        <kurzusnev tnev="Webes adatkezelő környezetek"/>
+        <idopont>
+            <nap datum="2026-10-16"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Dr. Bednarik László"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="13" tipus="Gyakorlat">
+        <kurzusnev tnev="Mesterséges intelligencia alapok"/>
+        <idopont>
+            <nap datum="2026-10-17"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="XXXIII"/>
+        <oktato onev="Fazekas Levente"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    
+    <ora id="14" tipus="Gyakorlat">
+        <kurzusnev tnev="Windows rendszergazda"/>
+        <idopont>
+            <nap datum="2026-10-17"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="In/101"/>
+        <oktato onev="Dr. Wagner György"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 43. naptári hét -->
+    <ora id="15" tipus="Elmélet">
+        <kurzusnev tnev="Elektrotechnika-elektronika"/>
+        <idopont>
+            <nap datum="2026-10-24"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="X"/>
+        <oktato onev="Szabó Norbert"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 44. naptári hét -->
+    <ora id="16" tipus="Elmélet">
+        <kurzusnev tnev="Mobil programozási alapok"/>
+        <idopont>
+            <nap datum="2026-10-31"/>
+            <tol mettol="08:30"/>
+            <ig meddig="15:10"/>
+        </idopont>
+        <helyszin hol="A1/307"/>
+        <oktato onev="Agárdi Anita"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 45. naptári hét -->
+    <ora id="17" tipus="Gyakorlat">
+        <kurzusnev tnev="Webes adatkezelő környezetek"/>
+        <idopont>
+            <nap datum="2026-11-06"/>
+            <tol mettol="12:30"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Dr. Bednarik László"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="18" tipus="Gyakorlat">
+        <kurzusnev tnev="UNIX rendszergazda"/>
+        <idopont>
+            <nap datum="2026-11-07"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="A1/204"/>
+        <oktato onev="Dr. Mileff Péter"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="19" tipus="Gyakorlat">
+        <kurzusnev tnev="Windows rendszergazda"/>
+        <idopont>
+            <nap datum="2026-11-07"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="In/101"/>
+        <oktato onev="Dr. Wagner György"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 46. naptári hét -->
+    <ora id="20" tipus="Gyakorlat">
+        <kurzusnev tnev="Mobil programozási alapok"/>
+        <idopont>
+            <nap datum="2026-11-14"/>
+            <tol mettol="08:30"/>
+            <ig meddig="15:10"/>
+        </idopont>
+        <helyszin hol="A1/202"/>
+        <oktato onev="Agárdi Anita"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 47. naptári hét -->
+    <ora id="21" tipus="Gyakorlat">
+        <kurzusnev tnev="Multimédia rendszerek"/>
+        <idopont>
+            <nap datum="2026-11-20"/>
+            <tol mettol="12:30"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="In/200"/>
+        <oktato onev="Dr. Varga Attila Károly"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="22" tipus="Gyakorlat">
+        <kurzusnev tnev="Mesterséges intelligencia alapok"/>
+        <idopont>
+            <nap datum="2026-11-21"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="XXXIII"/>
+        <oktato onev="Fazekas Levente"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 48. naptári hét -->
+    <ora id="23" tipus="Gyakorlat">
+        <kurzusnev tnev="Multimédia rendszerek"/>
+        <idopont>
+            <nap datum="2026-11-27"/>
+            <tol mettol="12:30"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="In/200"/>
+        <oktato onev="Dr. Varga Attila Károly"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="24" tipus="Gyakorlat">
+        <kurzusnev tnev="Elektrotechnika-elektronika"/>
+        <idopont>
+            <nap datum="2026-11-28"/>
+            <tol mettol="08:30"/>
+            <ig meddig="11:50"/>
+        </idopont>
+        <helyszin hol="X"/>
+        <oktato onev="Szabó Norbert"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+
+    <ora id="25" tipus="Gyakorlat">
+        <kurzusnev tnev="UNIX rendszergazda"/>
+        <idopont>
+            <nap datum="2026-11-28"/>
+            <tol mettol="12:20"/>
+            <ig meddig="15:40"/>
+        </idopont>
+        <helyszin hol="A1/201"/>
+        <oktato onev="Dr. Mileff Péter"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+    <!-- 49. naptári hét -->
+    <ora id="26" tipus="Gyakorlat">
+        <kurzusnev tnev="Webes adatkezelő környezetek"/>
+        <idopont>
+            <nap datum="2026-12-04"/>
+            <tol mettol="12:30"/>
+            <ig meddig="15:50"/>
+        </idopont>
+        <helyszin hol="OnLine"/>
+        <oktato onev="Dr. Bednarik László"/>
+        <szak sznev="mérnökinformatikus"/>
+    </ora>
+</PLUJH5_orarend>
