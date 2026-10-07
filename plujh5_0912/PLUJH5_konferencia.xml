@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<konferencia>
+    <cim>Mozgásszervi betegségek és azok megelőzése</cim>
+    <hallgatok>
+        <hallgato>
+            <nev>Apáti Angéla</nev>
+            <lakcim>Apácatorna, Sport u.3</lakcim>
+        </hallgato>
+        <hallgato>
+            <nev>Köszvényesi Apollónia</nev>
+            <lakcim>Nyárádköszvényes, Marosvölgyi u.5</lakcim>
+        </hallgato>
+    </hallgatok>
+    <helyszin>Miskolci Egyetem, XXXII. ea. A/1. épület mfsz.</helyszin>
+    <eloado>
+        <nev>Vámosné Fazekas Anita</nev>
+        <adoszam>12345678-9-10</adoszam>
+        <lakcim>Miskolc, Nevesincs tér 111</lakcim>
+    </eloado>
+    <datum>2026.11.13</datum>
+</konferencia>
