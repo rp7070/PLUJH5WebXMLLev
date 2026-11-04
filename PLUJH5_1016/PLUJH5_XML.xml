@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLUJH5_Vendeglatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PLUJH5_XMLSchema.xsd">
+
+    <Etterem Ekod="E1">
+        <Nev>Szuper Étterem</Nev>
+        <Cim>
+            <Varos>Miskolc</Varos>
+            <Utca>Fő út</Utca>
+            <Hazszam>555</Hazszam>
+        </Cim>
+        <Csillag>5</Csillag>
+    </Etterem>
+
+    <Foszakacs  Fkod="F1" e_f="E1">
+        <Nev>Kenyeres Szabolcs</Nev>
+        <Eletkor>44</Eletkor>
+        <Vegzettseg>Mesterszakács</Vegzettseg>
+    </Foszakacs>
+
+    <Szakacs SZkod="SZ1" e_sz="E1">
+        <Nev>Leveles Gizella</Nev>
+        <Reszleg>Sütöde</Reszleg>
+        <Vegzettseg>Cukrász</Vegzettseg>
+    </Szakacs>
+
+    <Szakacs SZkod="SZ2" e_sz="E1">
+        <Nev>Rindfleisch Ottó</Nev>
+        <Reszleg>Konyha</Reszleg>
+        <Vegzettseg>Szakács</Vegzettseg>
+    </Szakacs>
+
+    <Gyakornok GYkod="GY1" e_gy="E1">
+        <Nev>Lelkes Róbert</Nev>
+        <Gyakorlat>
+            <Kezdete>2026-09-12</Kezdete>
+            <Idotartama>6 hónap</Idotartama>
+        </Gyakorlat>
+        <Muszak>délelött</Muszak>
+    </Gyakornok>
+
+    <Gyakornok GYkod="GY2" e_gy="E1">
+        <Nev>Mazsola Szerénke</Nev>
+        <Gyakorlat>
+            <Kezdete>2026-10-01</Kezdete>
+            <Idotartama>4 hónap</Idotartama>
+        </Gyakorlat>
+        <Muszak>délután</Muszak>
+    </Gyakornok>
+
+    <Vendeg Vkod="V1">
+        <Nev>Csuka Mara</Nev>
+        <Eletkor>24</Eletkor>
+        <Cim>
+            <Varos>Miskolctapolca</Varos>
+            <Utca>Miskolci út</Utca>
+            <Hazszam>222</Hazszam>
+        </Cim>
+    </Vendeg>
+
+    <Vendeg Vkod="V2">
+        <Nev>Gombóc Artúr</Nev>
+        <Eletkor>16</Eletkor>
+        <Cim>
+            <Varos>Miskolc</Varos>
+            <Utca>Csokoládé köz</Utca>
+            <Hazszam>11</Hazszam>
+        </Cim>
+    </Vendeg>
+
+    <Vendeg Vkod="V3">
+        <Nev>Medve Endre</Nev>
+        <Eletkor>66</Eletkor>
+        <Cim>
+            <Varos>Lillafüred</Varos>
+            <Utca>Fátyol tér</Utca>
+            <Hazszam>1</Hazszam>
+        </Cim>
+    </Vendeg>
+
+    <Rendeles Vkod="V1" Ekod="E1">
+        <Osszeg>5900</Osszeg>
+        <Etel>Harcsapaprikás tepertős túrós csuszával</Etel>
+    </Rendeles>
+
+    <Rendeles Vkod="V2" Ekod="E1">
+        <Osszeg>1500</Osszeg>
+        <Etel>Csokoládés palacsinta vanília öntettel</Etel>
+    </Rendeles>
+
+    <Rendeles Vkod="V3" Ekod="E1">
+        <Osszeg>4900</Osszeg>
+        <Etel>Halászlé</Etel>
+    </Rendeles>
+
+    <Rendeles Vkod="V3" Ekod="E1">
+        <Osszeg>5500</Osszeg>
+        <Etel>Sült pisztráng</Etel>
+    </Rendeles>
+
+</PLUJH5_Vendeglatas>
